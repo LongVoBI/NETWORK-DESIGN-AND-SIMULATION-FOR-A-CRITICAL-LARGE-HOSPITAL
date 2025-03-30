@@ -1,7 +1,7 @@
 # Network Design and Simulation for a Large Hospital
 
 ## Purpose of This Repository
-The purpose of this repository is to serve as an assignment 2 project for a Computer Networks course from Semester 1 of the 2023-2024 academic year. It focuses on designing a topology of a network for a critical large company, where different departments have computers in various buildings. The goal is to set up a network that allows these departments to interact and communicate with each other by exchanging data.
+The purpose of this repository is to serve as an assignment project for a Computer Networks course from Semester 1 of the 2023-2024 academic year. It focuses on designing a topology of a network for a critical large company, where different departments have computers in various buildings. The goal is to set up a network that allows these departments to interact and communicate with each other by exchanging data.
 
 ## Analysis of Repository Contents
 The repository appears to be related to network design and simulation, as suggested by its title and context. Since there is limited information available in the README file, analyzing the repository's contents directly would provide better insights into the specific features and technologies used. 

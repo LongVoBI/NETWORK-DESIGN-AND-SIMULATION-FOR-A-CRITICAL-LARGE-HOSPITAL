@@ -9,6 +9,5 @@ The repository appears to be related to network design and simulation, as sugges
 Typically, such projects might include:
 - 📄 **[Documents]()**: Additional documentation detailing and requirement the network design and methodology.
 - 📊 **[Report]()**: A comprehensive report summarizing the findings and results of the network simulation.
-- 🗺️ **Network Topology Diagrams**: Visual representations of the network design.
-- ⚙️ **Simulation Configurations**: Files and settings for network simulations.
-- 💻 **Code for Network Simulations**: Implementations using tools like Cisco Packet Tracer or GNS3.
+- ⚙️ **[Build](https://github.com/LongVoBi37/NETWORK-DESIGN-AND-SIMULATION-FOR-A-CRITICAL-LARGE-HOSPITAL/blob/8fb8986526d2acac7fb74bab8f94a8a5898632ad/build/ComputerNetworkAssignment2.pkt)**: Files and settings for network simulations.
+
